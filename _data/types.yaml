@@ -21,6 +21,10 @@ undergrad:
 programmer:
   icon: fa-solid fa-code
   description: Programmer
+  
+research technician:
+  icon: fa-solid fa-user-graduate
+  description: Research Technician
 
 mascot:
   icon: fa-solid fa-dog
