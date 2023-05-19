@@ -1,7 +1,7 @@
 ---
 name: Adrianna Guzman
 image: images/team/adrianna.jpg
-role: research technician
+role: undergrad
 group: current
 aliases:
   - A. Guzman
