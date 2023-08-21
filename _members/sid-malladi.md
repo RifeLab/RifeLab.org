@@ -1,6 +1,6 @@
 ---
 name: Siddharth Malladi
-image: images/team/trevor-rife.jpg
+image: images/team/sid-malladi.jpg
 role: Programmer/Masters
 aliases:
   - Sid Malladi
