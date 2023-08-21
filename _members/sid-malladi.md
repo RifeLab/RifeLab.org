@@ -1,7 +1,7 @@
 ---
 name: Siddharth Malladi
 image: images/team/sid-malladi.jpg
-role: Programmer/Masters
+role: programmer
 aliases:
   - Sid Malladi
   - S Malladi
