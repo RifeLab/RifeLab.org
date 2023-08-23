@@ -2,7 +2,7 @@
 name: Adrianna Guzman
 image: images/team/adrianna-guzman.jpg
 role: undergrad
-group: current
+group: alum
 aliases:
   - A. Guzman
   - Adrianna M Guzman
