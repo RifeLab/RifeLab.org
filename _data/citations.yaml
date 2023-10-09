@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3390/mps6050092
+  title: A Simplified Microscopy Technique to Rapidly Characterize Individual Fiber
+    Traits in Cotton
+  authors:
+  - Quinn LaFave
+  - Shalini P. Etukuri
+  - Chaney L. Courtney
+  - Neha Kothari
+  - Trevor W. Rife
+  - Christopher A. Saski
+  publisher: Methods and Protocols
+  date: '2023-10-03'
+  link: https://doi.org/gsttvp
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/csc2.20702
   title: 'Intercross: An Android app for plant breeding and genetics cross management'
   authors:
