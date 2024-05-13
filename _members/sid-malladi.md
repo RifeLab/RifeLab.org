@@ -2,6 +2,7 @@
 name: Siddharth Malladi
 image: images/team/sid-malladi.JPG
 role: programmer
+group: alum
 aliases:
   - Sid Malladi
   - S Malladi
