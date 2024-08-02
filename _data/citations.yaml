@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.13031/aim.202400960
+  title: Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer
+  authors:
+  - Venkat Margapuri
+  - Prapti Thapaliya
+  - Trevor Rife
+  publisher: 2024 Anaheim, California July 28-31, 2024
+  date: '2024-01-01'
+  link: https://doi.org/gt5t9v
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/aps3.11562
   title: "Toward an open\u2010source 3D\u2010printable laboratory"
   authors:
