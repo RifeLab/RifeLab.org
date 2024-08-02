@@ -2,11 +2,11 @@
 name: Mason McNair
 image: images/team/mason-mcnair.jpg
 role: postdoc
+group: alum
 aliases:
   - M. McNair
   - M.C. McNair
 links:
-  home-page: https://fieldpheno.org
   github: mmcnair91
   email: mcnair5@clemson.edu
   twitter: SarraceniaMason

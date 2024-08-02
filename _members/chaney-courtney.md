@@ -6,7 +6,7 @@ aliases:
   - C. Courtney
   - Chaney Courtney
 links:
-  home-page: https://fieldpheno.org
+  home-page: https://rifelab.org
   github: chaneylc
 ---
 

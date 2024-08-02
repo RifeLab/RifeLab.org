@@ -10,7 +10,7 @@ aliases:
   - Trevor W Rife
 links:
   email: twrife@clemson.edu
-  home-page: https://fieldpheno.org
+  home-page: https://rifelab.org
   orcid: 0000-0002-5974-6523
   google-scholar: m4sw8RQAAAAJ
   github: trife

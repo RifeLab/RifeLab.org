@@ -8,7 +8,7 @@ aliases:
   - Bryan J Ellerbrock
   - Bryan LJ Ellerbrock
 links:
-  home-page: https://fieldpheno.org
+  home-page: https://rifelab.org
   github: bellerbrock
 ---
 
