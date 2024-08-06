@@ -6,10 +6,25 @@
   tags:
     - tools
 
-- title: Feed the Future Innovation Lab for Crop Improvement
+- title: Heirloom Maize
   group: featured
+  image: images/projects/heirloom-maize.png
+  description: We're working to investigate the genetic control of milling quality in heirloom open-pollinated maize and make population improvements for producers in South Carolina.
+  tags:
+    - breeding
+
+- title: Feed the Future Innovation Lab for Crop Improvement
+  group: more
   image: images/projects/phenoapps-training-nepal.jpg
   link: https://ilci.cornell.edu/
+  description: Advancing the unique goals of National Agricultural Research Institutes by collaborating with leading experts plant breeding and genetics.
+  tags:
+    - tools
+
+- title: Feed the Future Climate Resilient Cereals Innovation Lab
+  group: more
+  image: images/projects/crcil-bangladesh.jpg
+  link: https://www.k-state.edu/crcil/
   description: Advancing the unique goals of National Agricultural Research Institutes by collaborating with leading experts plant breeding and genetics.
   tags:
     - tools
@@ -38,15 +53,6 @@
   link: https://github.com/PhenoApps/Coordinate
   description: Coordinate is a customizable Android app that allows gridded data to be collected and organized. Two templates are included by default- Seed Tray and DNA Plate.
   repo: PhenoApps/Coordinate
-  tags:
-    - app
-
-- title: Prospector
-  group: more
-  image: images/projects/prospector-icon.png
-  link: https://github.com/PhenoApps/Prospector
-  description: Prospector is an Android app capable of capturing, storing, visualizing, and exporting data from mobile handheld NIR spectrometers.
-  repo: PhenoApps/Prospector
   tags:
     - app
 
