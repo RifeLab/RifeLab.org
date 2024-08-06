@@ -74,6 +74,8 @@
   buttons:
   - type: source
     link: https://github.com/PhenoApps/Intercross
+  - type: app
+    link: https://play.google.com/store/apps/details?id=org.phenoapps.intercross
   tags:
   - phenoapps
   - plant breeding
@@ -189,6 +191,8 @@
   buttons:
   - type: source
     link: https://github.com/PhenoApps/Prospector
+  - type: app
+    link: https://play.google.com/store/apps/details?id=org.phenoapps.prospector
   tags:
   - phenoapps
   - NIR
@@ -333,7 +337,7 @@
   member: trevor-rife
   plugin: sources.py
   file: sources.yaml
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
+  image: images/publications/rife2018.jpg
   tags:
   - wheat
   - plant breeding
@@ -416,7 +420,7 @@
   member: trevor-rife
   plugin: sources.py
   file: sources.yaml
-  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+  image: https://raw.githubusercontent.com/PhenoApps/Field-Book/main/docs/_static/icons/icon.png
   repo: PhenoApps/Field-Book
   buttons:
   - type: source
