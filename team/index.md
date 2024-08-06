@@ -32,8 +32,6 @@ We work with a wide range of outstanding groups from around the world, and we're
 
 ## Alumni
 
-These are past lab members who have moved on to other school programs, new jobs, or elsewhere.
-
 {% include list.html data="members" component="portrait" filters="role: pi, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
