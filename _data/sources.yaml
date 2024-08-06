@@ -8,10 +8,11 @@
 - id: doi:10.2135/cropsci2013.08.0579
   image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
   repo: PhenoApps/Field-Book
-  extra-links:
+  buttons:
     - type: source
       link: https://github.com/PhenoApps/Field-Book
-      text: Source
+    - type: app
+      link: https://play.google.com/store/apps/details?id=com.fieldbook.tracker
   tags:
     - phenoapps
     - plant breeding
@@ -49,10 +50,9 @@
 - id: doi:10.1093/bioinformatics/btz190
   image: images/publications/selby2019.png
   repo: plantbreeding/BrAPI
-  extra-links:
+  buttons:
     - type: source
       link: https://github.com/plantbreeding/BrAPI
-      text: Source
   tags:
     - api
 
@@ -64,10 +64,9 @@
 - id: doi:10.1002/ppj2.20024
   image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Prospector
-  extra-links:
+  buttons:
     - type: source
       link: https://github.com/PhenoApps/Prospector
-      text: Source
   tags:
     - phenoapps
     - NIR
@@ -75,19 +74,43 @@
 - id: doi:10.1002/csc2.20702
   image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Intercross
-  extra-links:
+  buttons:
     - type: source
       link: https://github.com/PhenoApps/Intercross
-      text: Source
   tags:
     - phenoapps
     - plant breeding
 
 - id: doi:10.1093/g3journal/jkac078
   image: images/publications/morales2022.png
-  extra-links:
+  buttons:
     - type: source
       link: https://github.com/solgenomics/sgn/
-      text: Source
   tags:
     - database
+
+- id: doi:10.1093/g3journal/jkac078
+  image: images/publications/morales2022.png
+  buttons:
+    - type: source
+      link: https://github.com/solgenomics/sgn/
+  tags:
+    - database
+
+- id: doi:10.3390/mps6050092
+  image: images/publications/lafave2023.png
+  tags:
+    - deep learning
+
+- id: doi:10.1002/aps3.11562
+  image: images/publications/mcnair2024.png
+  date: 2024-01-18
+  buttons:
+    - type: data
+      link: https://www.printables.com/model/45750-coble-collection-of-bespoke-laboratory-equipment
+  tags:
+    - 3D printing
+
+- id: doi:10.13031/aim.202400960
+  image: images/publications/margapuri2024.png
+  date: 2024-07-28
