@@ -7,12 +7,13 @@
   - Prapti Thapaliya
   - Trevor Rife
   publisher: 2024 Anaheim, California July 28-31, 2024
-  date: '2024-01-01'
+  date: '2024-07-28'
   link: https://doi.org/gt5t9v
   orcid: 0000-0002-5974-6523
   member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/margapuri2024.png
 - id: doi:10.1002/aps3.11562
   title: "Toward an open\u2010source 3D\u2010printable laboratory"
   authors:
@@ -21,12 +22,18 @@
   - Peter Pietrzyk
   - Trevor W. Rife
   publisher: Applications in Plant Sciences
-  date: '2024-01-01'
+  date: '2024-01-18'
   link: https://doi.org/gtd5t4
   orcid: 0000-0002-5974-6523
   member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/mcnair2024.png
+  buttons:
+  - type: data
+    link: https://www.printables.com/model/45750-coble-collection-of-bespoke-laboratory-equipment
+  tags:
+  - 3D printing
 - id: doi:10.3390/mps6050092
   title: A Simplified Microscopy Technique to Rapidly Characterize Individual Fiber
     Traits in Cotton
@@ -42,8 +49,11 @@
   link: https://doi.org/gsttvp
   orcid: 0000-0002-5974-6523
   member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/lafave2023.png
+  tags:
+  - deep learning
 - id: doi:10.1002/csc2.20702
   title: 'Intercross: An Android app for plant breeding and genetics cross management'
   authors:
@@ -61,10 +71,9 @@
   file: sources.yaml
   image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Intercross
-  extra-links:
+  buttons:
   - type: source
     link: https://github.com/PhenoApps/Intercross
-    text: Source
   tags:
   - phenoapps
   - plant breeding
@@ -136,10 +145,9 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/morales2022.png
-  extra-links:
+  buttons:
   - type: source
     link: https://github.com/solgenomics/sgn/
-    text: Source
   tags:
   - database
 - id: doi:10.48550/arXiv.2205.00366
@@ -178,10 +186,9 @@
   file: sources.yaml
   image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
   repo: PhenoApps/Prospector
-  extra-links:
+  buttons:
   - type: source
     link: https://github.com/PhenoApps/Prospector
-    text: Source
   tags:
   - phenoapps
   - NIR
@@ -307,10 +314,9 @@
   file: sources.yaml
   image: images/publications/selby2019.png
   repo: plantbreeding/BrAPI
-  extra-links:
+  buttons:
   - type: source
     link: https://github.com/plantbreeding/BrAPI
-    text: Source
   tags:
   - api
 - id: doi:10.3835/plantgenome2018.01.0004
@@ -412,10 +418,11 @@
   file: sources.yaml
   image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
   repo: PhenoApps/Field-Book
-  extra-links:
+  buttons:
   - type: source
     link: https://github.com/PhenoApps/Field-Book
-    text: Source
+  - type: app
+    link: https://play.google.com/store/apps/details?id=com.fieldbook.tracker
   tags:
   - phenoapps
   - plant breeding
