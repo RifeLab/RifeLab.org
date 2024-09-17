@@ -12,4 +12,4 @@ links:
   github: bellerbrock
 ---
 
-Bryan is a programmer in the Rife Lab working on app development, as well as breeding database deployment and user trainings. 
+Bryan is a programmer in the Rife Lab working on app development, database deployment, and stakeholder training.

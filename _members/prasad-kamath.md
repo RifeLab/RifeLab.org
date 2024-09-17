@@ -15,4 +15,4 @@ links:
   linkedin: kamathprasad9
 ---
 
-Prasad is a programmer in the Rife Lab working primarily on Android app development.
+Prasad is a programmer in the Rife Lab primarily working on Android app development.

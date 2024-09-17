@@ -12,24 +12,4 @@ links:
   twitter: SarraceniaMason
 ---
 
-Research Goals:
-
--Enable affordable scientific research for underfunded labs, citizen scientists, and underserved communities by creating simple, 3D printable designs
-
--Develop robust pipelines for plant taxonomic delimitation, minimizing impact on natural populations and maximizing data utility for conservation
-
--Use living collections (botanical gardens & arboreta), dried collections (herbaria), and breeding populations to provide answers for complex taxonomic questions
-
-Plant Systems I work with:
-
--Cercis (Redbud)
-
--Sarracenia (Pitcher Plants)
-
--Allium (Onions)
-
--Oryza (Rice)
-
--Triticum aestivum (Winter Wheat)
-
--Zea mays (Corn/Maize)
+Mason is a postdoc working to enable affordable scientific research for underfunded labs, citizen scientists, and underserved communities by creating simple, 3D printable designs. By developing robust pipelines for plant taxonomic delimitation, he hopes to minimize the impact on natural populations while maximizing data utility for conservation. Mason is also interested in using collections (botanical gardens & arboreta), dried collections (herbaria), and breeding populations to provide answers for complex taxonomic questions. His research has spanned across numerous species including redbuds, pitcher plants, onions, rice, wheat, and maize.
