@@ -1,6 +1,6 @@
 ---
 name: Blake Wilson
-image: images/team/blake-wilson.jpg
+image: images/photo.jpg
 role: engineer
 aliases:
 links:
