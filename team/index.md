@@ -9,8 +9,8 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'pi' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role != 'pi' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
@@ -27,6 +27,6 @@ We work with a wide range of outstanding groups from around the world, and we're
 {% include section.html %}
 
 ## Alumni
-{% include list.html data="members" component="portrait" filter="group == 'alum'" %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small"%}
 
 {% include section.html %}
