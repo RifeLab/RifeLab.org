@@ -15,7 +15,7 @@ The vast availability of genomic data over the last decade has created a new bot
 
 ## Featured
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
