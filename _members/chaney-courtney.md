@@ -5,6 +5,7 @@ role: programmer
 aliases:
   - C. Courtney
   - Chaney Courtney
+  - Chaney L. Courtney
 links:
   home-page: https://rifelab.org
   github: chaneylc
