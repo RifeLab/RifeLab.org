@@ -2,6 +2,7 @@
 name: Bryan Ellerbrock
 image: images/team/bryan-ellerbrock.jpg
 role: programmer
+group: alum
 aliases:
   - B. Ellerbrock
   - Bryan Ellerbrock
