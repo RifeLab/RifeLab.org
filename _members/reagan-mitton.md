@@ -2,6 +2,7 @@
 name: Reagan Mitton
 image: images/team/blank-profile.jpg
 role: highschool
+group: alum
 aliases:
 links:
 ---
