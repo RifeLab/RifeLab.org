@@ -118,3 +118,11 @@
 - id: doi:10.13031/aim.202400960
   image: images/publications/margapuri2024.png
   date: 2024-07-28
+
+- id: doi:10.1002/csc2.70094
+  image: images/publications/hale2025.png
+  date: 2025-06-11
+
+- id: doi:10.1002/ppj2.70034
+  image: images/publications/hoyos-villegas2025.png
+  date: 2025-08-06

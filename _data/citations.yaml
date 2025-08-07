@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/ppj2.70034
+  title: 'Affordable phenomics: Expanding access to enhancing genetic gain in plant
+    breeding'
+  authors:
+  - "V. Hoyos\u2010Villegas"
+  - M. Jackson
+  - "M. Vargas\u2010Cede\xF1o"
+  - E. E. Farmer
+  - M. Hanneman
+  - A. Mazis
+  - K. D. Singh
+  - W. Sangjan
+  - M. McNair
+  - S. Sankaran
+  - S. Tirado Tolosa
+  - M. A. Gore
+  - T. W. Rife
+  publisher: The Plant Phenome Journal
+  date: '2025-08-06'
+  link: https://doi.org/g9wd64
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/hoyos-villegas2025.png
 - id: doi:10.1002/csc2.70094
   title: Sustaining public plant breeding programs across generations
   authors:
@@ -33,12 +58,13 @@
   - Marnin Wolfe
   - Michael Kantar
   publisher: Crop Science
-  date: '2025-05-01'
+  date: '2025-06-11'
   link: https://doi.org/g9p8br
   orcid: 0000-0002-5974-6523
   member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/hale2025.png
 - id: doi:10.13031/aim.202400960
   title: Leaf Angle Estimation using Mask R-CNN and LETR Vision Transformer
   authors:
