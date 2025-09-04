@@ -5,6 +5,7 @@ role: pi
 aliases:
   - T. Rife
   - T.W. Rife
+  - T. W. Rife
   - Trevor Rife
   - Trevor W. Rife
   - Trevor W Rife

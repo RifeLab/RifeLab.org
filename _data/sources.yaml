@@ -18,7 +18,7 @@
     - plant breeding
 
 - id: doi:10.1186/s12864-015-1404-9
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-015-1404-9/MediaObjects/12864_2015_1404_Fig3_HTML.gif?as=webp
+  image: images/publications/rife2015.png
   tags:
     - genotyping
     - gbs
@@ -42,7 +42,7 @@
     - plant breeding
 
 - id: doi:10.1007/s00122-018-3107-5
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-018-3107-5/MediaObjects/122_2018_3107_Fig1_HTML.png?as=webp
+  image: images/publications/shao2018.png
   tags:
     - wheat
     - pre-harvest sprouting
@@ -57,7 +57,7 @@
     - api
 
 - id: doi:10.1007/s00122-020-03712-y
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-020-03712-y/MediaObjects/122_2020_3712_Fig4_HTML.png?as=webp
+  image: images/publications/gao2020.png
   tags:
     - wheat
 
@@ -126,3 +126,12 @@
 - id: doi:10.1002/ppj2.70034
   image: images/publications/hoyos-villegas2025.png
   date: 2025-08-06
+
+- id: doi:10.21105/joss.08263
+  image: images/publications/rife2025.png
+  date: 2025-09-04
+  buttons:
+    - type: source
+      link: https://github.com/PhenoApps/Coordinate
+    - type: app
+      link: https://play.google.com/store/apps/details?id=org.wheatgenetics.coordinate
