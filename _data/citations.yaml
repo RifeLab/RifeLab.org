@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.21105/joss.08263
+  title: 'Coordinate: An Android application to organize samples into grids'
+  authors:
+  - Trevor W. Rife
+  - Chaney Courtney
+  - Prasad Kamath
+  - Bryan Ellerbrock
+  - Jesse A. Poland
+  publisher: Journal of Open Source Software
+  date: '2025-09-04'
+  link: https://doi.org/g92k3s
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ppj2.70034
   title: 'Affordable phenomics: Expanding access to enhancing genetic gain in plant
     breeding'
