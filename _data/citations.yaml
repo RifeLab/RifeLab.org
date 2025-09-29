@@ -88,7 +88,7 @@
   member: trevor-rife
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/selby2025.png
+  image: images/publications/selby2025.jpeg
   buttons:
   - type: source
     link: https://brapi.org
