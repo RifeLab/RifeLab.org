@@ -1,5 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1371/journal.pone.0324104
+  title: 'DeltaBreed: A BrAPI-centric breeding data information system'
+  authors:
+  - Shawn C. Yarnes
+  - Nick Palladino
+  - Dave J. Meidlinger
+  - David R. Philips
+  - Heather M. Sweeney
+  - Shahana A. Mustafa
+  - Matthew L. Mandych
+  - Sam Bouabane
+  - Tim E. Parsons
+  - Tyler J. Slonecki
+  - Dongyan Zhao
+  - Trevor W. Rife
+  - Bryan J. Ellerbrock
+  - Chaney Courtney
+  - Peter Selby
+  - Lukas A. Mueller
+  - Mirella Flores-Gonzalez
+  - Johan S. Aparicio
+  - "Khaled Al-Sham\u2019aa"
+  - Sebastian Raubach
+  - Jean-Luc Jannink
+  - Edward S. Buckler
+  - Craig T. Beil
+  - Moira J. Sheehan
+  publisher: PLOS One
+  date: '2025-12-12'
+  link: https://doi.org/hbfpw9
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/database/baaf048
   title: 'BrAPI v2: real-world applications for data integration and collaboration
     in the breeding and genetics community'
