@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/csc2.70222
+  title: "Three\u2010dimensional\u2010printed tools to democratize global plant research"
+  authors:
+  - Mason C. McNair
+  - Blake Wilson
+  - Trevor W. Rife
+  publisher: Crop Science
+  date: '2025-12-23'
+  link: https://doi.org/hbgxhv
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0324104
   title: 'DeltaBreed: A BrAPI-centric breeding data information system'
   authors:
