@@ -2,6 +2,7 @@
 name: Prasad Kamath
 image: images/team/prasad-kamath.jpg
 role: programmer
+group: alum
 aliases:
   - Prasad Vithal Kamath
   - Prasad Kamath
