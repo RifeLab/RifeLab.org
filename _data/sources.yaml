@@ -142,3 +142,9 @@
   buttons:
     - type: source
       link: https://brapi.org
+
+- id: doi:10.1002/csc2.70222
+  image: images/publications/mcnair2025.jpeg
+
+- id: doi:10.1371/journal.pone.0324104
+  image: images/publications/yarnes2025.png
