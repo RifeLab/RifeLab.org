@@ -11,8 +11,9 @@
   link: https://doi.org/hbgxhv
   orcid: 0000-0002-5974-6523
   member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/mcnair2025.jpeg
 - id: doi:10.1371/journal.pone.0324104
   title: 'DeltaBreed: A BrAPI-centric breeding data information system'
   authors:
@@ -45,8 +46,9 @@
   link: https://doi.org/hbfpw9
   orcid: 0000-0002-5974-6523
   member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/yarnes2025.png
 - id: doi:10.1093/database/baaf048
   title: 'BrAPI v2: real-world applications for data integration and collaboration
     in the breeding and genetics community'
