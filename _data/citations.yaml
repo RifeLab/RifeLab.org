@@ -13,7 +13,7 @@
   member: trevor-rife
   plugin: sources.py
   file: sources.yaml
-  image: images/publications/mcnair2025.jpeg
+  image: images/publications/mcnair2025.jpg
 - id: doi:10.1371/journal.pone.0324104
   title: 'DeltaBreed: A BrAPI-centric breeding data information system'
   authors:
