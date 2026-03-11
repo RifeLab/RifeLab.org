@@ -690,7 +690,7 @@
   member: trevor-rife
   plugin: sources.py
   file: sources.yaml
-  image: https://acsess.onlinelibrary.wiley.com/cms/asset/1b72a9c4-f075-4290-a68c-cf4d7aa187d6/tpg2plantgenome2012050005-fig-0003-m.jpg
+  image: images/publications/poland2012.png
   tags:
   - genotyping
   - review
