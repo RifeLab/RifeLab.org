@@ -1,5 +1,90 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41586-026-10229-9
+  title: A sorghum pangenome reference improves global crop trait discovery
+  authors:
+  - Geoffrey P. Morris
+  - Avril M. Harder
+  - Adam L. Healey
+  - Chloee M. McLaughlin
+  - Joanna L. Rifkin
+  - Clara Cruet-Burgos
+  - Jerry W. Jenkins
+  - Shengqiang Shu
+  - John J. Spiekerman
+  - Carl J. VanGessel
+  - Erica Agnew
+  - Alain Audebert
+  - Kerrie Barry
+  - Ivan Baxter
+  - Gregory Beurier
+  - Lori Beth Boston
+  - Richard E. Boyles
+  - Siobhan M. Brady
+  - Victoria Bunting
+  - Jacqueline M. Chaparro
+  - Chaney Courtney
+  - "Joseph S\xE9kou B. Dembele"
+  - Santosh Deshpande
+  - Cyril Diatta
+  - Nathaniel Eck
+  - Andrea L. Eveland
+  - Jacques M. Faye
+  - Dave Flowers
+  - Daniel Fonceka
+  - Boubacar Gano
+  - Marie de Gracia Coquerel
+  - David Goodstein
+  - Jane Grimwood
+  - Matthew E. Hudson
+  - Jana Kholova
+  - Katherine Johnson
+  - Kristen K. Johnson
+  - Dorota Kawa
+  - Mamoutou Kouressy
+  - Stephen Kresovich
+  - Scott Lee
+  - Peggy G. Lemaux
+  - Robert Lowery
+  - Delphine Luquet
+  - Fanna Maina
+  - Sujan Mamidi
+  - John K. McKay
+  - Todd P. Michael
+  - Taye T. Mindaye
+  - John Mullet
+  - Philip Ozersky
+  - Christopher Plott
+  - Jessica E. Prenni
+  - Gael Pressoir
+  - "Jean-Fran\xE7ois Rami"
+  - Trevor W. Rife
+  - Jocelyn Saxton
+  - Bassirou Sine
+  - Avinash Sreedasyam
+  - Jayson Talag
+  - Niaba Teme
+  - Mitchell R. Tuinstra
+  - Vincent Vadez
+  - John P. Vogel
+  - Rachel Walstead
+  - Jianan Wang
+  - Jenell Webber
+  - Melissa Williams
+  - Yuxing Xu
+  - Todd C. Mockler
+  - Jesse R. Lasky
+  - Brian R. Rice
+  - Jeremy Schmutz
+  - Nadia Shakoor
+  - John T. Lovell
+  publisher: Nature
+  date: '2026-03-11'
+  link: https://doi.org/hbr96w
+  orcid: 0000-0002-5974-6523
+  member: trevor-rife
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/csc2.70254
   title: "GeoNav: Enhancing field phenotyping with high\u2010precision global navigation\
     \ systems integration in the Field Book mobile application"
