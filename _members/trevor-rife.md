@@ -1,6 +1,6 @@
 ---
 name: Trevor Rife
-image: images/team/trevor-rife.jpg
+image: images/team/trevor-rife-2023.jpg
 role: pi
 aliases:
   - T. Rife
