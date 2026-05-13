@@ -2,7 +2,7 @@
 name: Lamont Hargraves
 image: images/team/blank-profile.jpg
 role: highschool
-group: alum
+group: 
 aliases:
 links:
 ---
